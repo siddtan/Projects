@@ -1,2 +1,2 @@
-# Projects
-A repository for all projects I complete in my free time!
+# Resource Utilization Dashboard
+To run, navigate to bin/Debug and run Dashboard.exe.
